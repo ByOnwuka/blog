@@ -1,0 +1,8 @@
+#include <iostream> 
+
+using namespace com.blogspot.byonwuka;
+
+int main () {
+    cout << "You know the feeling when you are sitting at a bench, waiting for the bus, when suddenly your tongue feels something in your mouth. You wiggle it a little with your tongue without even thinking about it. Sure enough, a little scrap of food gets free. You savor it. Try to feel the texture of the quote unquote free food. It tastes like starch. Probably the white bread from who knows when? Who cares? You are delighted. Then the crash comes. What are you doing at a bus stop at three in the morning? And why in the world are you savoring the taste of bits of food stuck in your mouth? As they say in Spanish, it is asqueroso."; 
+    return 0;
+}
